@@ -1,1 +1,4 @@
-# my first git repo''
+# Blockchain-developer-bootcamp-final-project '
+<h3>- BLOCKCHAIN IN MUSIC INDUSTRY -<h3> 
+ From my perspective, blockchain technology is a development that could help revolutionalize how artists are compensated and recognized. <p> <P>For subscription-based platforms such as Spotify and Apple Music, how artists are compensated for the music they create hasn’t changed substantially meaning that even after service providers and labels divvy up their respective cuts, some artists are still paid little. Moreover, anyone can modify available music on these platforms with decent software, mislabel and reupload them under a different account.<P> <P>With the arrival of Blockchain, independent music labels and artists are slowly but steadily taking advantage of regaining control over their money and art.
+<p> For this reason my project will be about decentralizing the music industry to put the money back in the pocket of artists wich are the real owners.
